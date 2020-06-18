@@ -3,7 +3,7 @@ let digits, searchBox;
 let indexP;
 
 function preload() {
-  pi = loadStrings('pi-7million.txt');
+  pi = loadStrings('pi-14.1million.txt');
 }
 
 
